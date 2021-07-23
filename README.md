@@ -8,9 +8,10 @@ A Lottie is a JSON-based animation file format that enables designers to ship an
 ## Requirement
 - Xcode Version 12.4 (12D4e)
 - Swift 5
+- lottie-ios 3.15
 
 ## Image
-![demo](https://github.com/YamamotoDesu/LaunchScreenAnimation-Swift/blob/main/RocketSim%20Recording%20-%20iPhone%2012%20-%202021-07-23%2000.34.32.gif)  
+![demo](https://github.com/YamamotoDesu/LottieAnimation-Swift/blob/main/RocketSim%20Recording%20-%20iPhone%2012%20-%202021-07-23%2020.11.14.gif)  
 <br><br>
 
 #### Sample Code
